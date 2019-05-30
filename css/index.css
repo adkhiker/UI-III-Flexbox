@@ -305,3 +305,7 @@ footer p {
   margin-top: 54px;
   font-size: 14px;
 }
+
+* {
+  border: red solid 2px;
+}
